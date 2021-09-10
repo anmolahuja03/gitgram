@@ -1,0 +1,42 @@
+export default [
+  {
+    "login": "CaptNikh",
+    "id": 72186120,
+    "node_id": "MDQ6VXNlcjcyMTg2MTIw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/72186120?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CaptNikh",
+    "html_url": "https://github.com/CaptNikh",
+    "followers_url": "https://api.github.com/users/CaptNikh/followers",
+    "following_url": "https://api.github.com/users/CaptNikh/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CaptNikh/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CaptNikh/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CaptNikh/subscriptions",
+    "organizations_url": "https://api.github.com/users/CaptNikh/orgs",
+    "repos_url": "https://api.github.com/users/CaptNikh/repos",
+    "events_url": "https://api.github.com/users/CaptNikh/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CaptNikh/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  {
+    "login": "rahmanabedi",
+    "id": 88270578,
+    "node_id": "MDQ6VXNlcjg4MjcwNTc4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/88270578?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rahmanabedi",
+    "html_url": "https://github.com/rahmanabedi",
+    "followers_url": "https://api.github.com/users/rahmanabedi/followers",
+    "following_url": "https://api.github.com/users/rahmanabedi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rahmanabedi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rahmanabedi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rahmanabedi/subscriptions",
+    "organizations_url": "https://api.github.com/users/rahmanabedi/orgs",
+    "repos_url": "https://api.github.com/users/rahmanabedi/repos",
+    "events_url": "https://api.github.com/users/rahmanabedi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rahmanabedi/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+];

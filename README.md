@@ -4,8 +4,7 @@
 ## Table of Content
 
  - Description & Features
- - Features
- - Tech Stack Used &Docs
+ - Tech Stack Used & Docs
  - Preview
  - Local Setup
  
@@ -32,6 +31,7 @@ Gitgram is a web app which allows the visitors to search github users and displa
 - GitHub API to retrieve data
 
 **Deployed On :** Netlify
+
 **Connections :**  EMail, Social
 
 ##  Preview
